@@ -1,5 +1,5 @@
 # prueba-git
 Primer repo creado en GitHub
 
-## descripción
-Este es un repo creado para el curso de Git
+## DESCRIPCIÓN
+Este es un repositorio creado para aprender a usar Git
